@@ -1,0 +1,29 @@
+
+caption {
+    padding: 36px;
+    caption-side: top;
+    font-size: 2rem;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(100, 100, 100);
+    letter-spacing: 1px;
+    font-family: Arial;
+    font-size: 1rem;
+    font-style: italic;
+}
+thead {
+    font-size: 2rem;
+    
+}
+
+td,
+th {
+    border: 1px solid rgb(100, 100, 100);
+    padding: 10px 10px;
+}
+
+td {
+    text-align: center;
+}
